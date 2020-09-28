@@ -1,5 +1,5 @@
 # Fidio-lp2
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zizi4n5)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Fidio-lp2)
 
 [Twitter](https://twitter.com/Fidio58116594)
